@@ -26,7 +26,7 @@ class Home extends StatelessWidget {
               Row(
                 children: <Widget>[
                   CircleAvatar(radius: 60,
-                  backgroundImage: AssetImage("images/jam.jpeg"),
+                  backgroundImage: AssetImage("images/bin.jpeg"),
                   ), //1st element
                   SizedBox(
                     width: 5,
